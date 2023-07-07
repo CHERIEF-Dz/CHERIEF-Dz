@@ -1,8 +1,8 @@
-### Hi there 👋
+# Hi there 👋
 
-# 🌱 I’m currently learning CI/CD
-# 🔭 I’m currently working on 'Laravel CV Builder'
-# 📫 How to reach me: cheriefabdelkader@gmail.com
+### 🌱 I’m currently learning CI/CD
+### 🔭 I’m currently working on 'Laravel CV Builder'
+### 📫 How to reach me: cheriefabdelkader@gmail.com
 
 <!--
 **CHERIEF-Dz/CHERIEF-Dz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
