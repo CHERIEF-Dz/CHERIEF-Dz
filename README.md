@@ -1,7 +1,7 @@
 # Hi there 👋
 
-### 🌱 I’m currently learning CI/CD
-### 🔭 I’m currently searching a work
+### 🌱 I’m currently learning machine learning
+### 🔭 I’m currently searching an internship related to dection of code smell in mobile applications
 ### 📫 How to reach me: cheriefabdelkader@gmail.com
 
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64a84de61dadb37b72b6f828?variant=dark&roadmaps=javascript%2Csql%2Ccomputer-science%2Cpython)](https://roadmap.sh)
